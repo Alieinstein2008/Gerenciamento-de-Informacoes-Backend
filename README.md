@@ -17,4 +17,4 @@ Analise melhor o código Cliente.mjs seguinte, onde é estanciada a classe Clien
 >[!NOTE]
 Analise melhor o código Cliente.mjs seguinte, onde é especificado os metodos CRUD responsaveis por tratar todas as requisições à api.
 >
->[Analise o código clicando aqui](api/src/controllers/Cliente.mjs)
+>[Analise o código clicando aqui](api/src/controllers/clienteController.mjs)
